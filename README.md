@@ -7,11 +7,11 @@
 ![example-bottom-sheet - Made with Clipchamp](https://github.com/nchypx2619/bottom-sheet/assets/126173094/dc972720-7f23-47ff-a4cb-648e3621f714)
 
 # 🚩 Methods | Options
-1. `string`
-    - `dispose`: Destroys an element’s bottomsheet. (Removes stored data on the DOM element)
-
-2. `object`
+1. `object`
     - `content`: String as Html ex. `<h1>Example To Show</h1>`
+
+2. `string`
+    - `destroy`: Destroys an element’s bottomsheet. (Removes stored data on the DOM element)
 
 # 🚩 How to use
 1. Create a bottom-sheet with a single line of JavaScript:
@@ -21,6 +21,7 @@
 
 2. Destroys a bottom-sheet by using:
    
-    ![image](https://github.com/nchypx2619/bottom-sheet/assets/126173094/3c66dc53-fc0b-4800-985c-1bd9a86f4199)
+    ![image](https://github.com/nchypx2619/bottom-sheet/assets/126173094/eaa572c6-295b-4383-8dda-0995a6a5739e)
+
 
 
