@@ -1,6 +1,6 @@
 /*
  * Bottom Sheet
- * Version: 1.0
+ * Version: 1.1
  * Author: nchypx2619
  * License: MIT
  * Description: Trigger all components to visible bottom-sheet on bottom in page. ✨ (https://github.com/nchypx2619/bottom-sheet)
