@@ -9,6 +9,7 @@
 # 🚩 Methods | Options
 1. `object`
     - `content`: String as Html ex. `<h1>Example To Show</h1>`
+    - `actived`: Boolean for visible bottom-sheet after initial
 
 2. `string`
     - `destroy`: Destroys an element’s bottomsheet. (Removes stored data on the DOM element)
